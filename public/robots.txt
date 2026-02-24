@@ -1,0 +1,7 @@
+# robots.txt
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://XXX/sitemap-index.xml
